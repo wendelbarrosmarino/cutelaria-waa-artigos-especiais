@@ -256,7 +256,8 @@ export const PRODUCTS: Product[] = [
       "Bainha Tática: Nylon com costura vermelha reforçada."
     ],
     imageSeed: 118,
-    image: "assets/Espirito Selvagem.png"
+    image: "assets/Espirito Selvagem.png",
+    isSold: true
   },
   {
     id: 19,
@@ -270,7 +271,8 @@ export const PRODUCTS: Product[] = [
       "Segurança: Guarda em 'S' de aço polido."
     ],
     imageSeed: 119,
-    image: "assets/Iron Hammer.jpeg"
+    image: "assets/Iron Hammer.jpeg",
+    isSold: true
   },
   {
     id: 20,
@@ -284,7 +286,8 @@ export const PRODUCTS: Product[] = [
       "Lâmina Drop Point: Geometria versátil com afiação navalha."
     ],
     imageSeed: 120,
-    image: "assets/Royal Hunter.jpg"
+    image: "assets/Royal Hunter.jpg",
+    isSold: true
   },
   {
     id: 21,
