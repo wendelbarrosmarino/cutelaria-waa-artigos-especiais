@@ -200,7 +200,8 @@ export const PRODUCTS: Product[] = [
       "Robustez: Acompanha bainha em nylon preto reforçado."
     ],
     imageSeed: 114,
-    image: "assets/Red Viper.jpeg"
+    image: "assets/Red Viper.jpeg",
+    isSold: true
   },
   {
     id: 15,
