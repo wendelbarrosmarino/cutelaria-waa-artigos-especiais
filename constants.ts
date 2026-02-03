@@ -262,6 +262,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 19,
+    // Produto disponível
     name: "Iron Hammer",
     price: 95.00,
     dimensions: "Lâmina: 20cm | Cabo: 12cm | Total: 32cm",
