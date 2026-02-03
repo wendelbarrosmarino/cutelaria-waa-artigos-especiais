@@ -200,7 +200,7 @@ export const PRODUCTS: Product[] = [
       "Robustez: Acompanha bainha em nylon preto reforçado."
     ],
     imageSeed: 114,
-    image: "assets/Red Viper.jpeg",
+    image: "assets/Red Viper.jpg",
     isSold: true
   },
   {
@@ -272,8 +272,7 @@ export const PRODUCTS: Product[] = [
       "Segurança: Guarda em 'S' de aço polido."
     ],
     imageSeed: 119,
-    image: "assets/Iron Hammer.jpeg",
-    isSold: true
+    image: "assets/Iron Hammer.jpeg"
   },
   {
     id: 20,
