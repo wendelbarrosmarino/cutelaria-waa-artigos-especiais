@@ -86,7 +86,8 @@ export const PRODUCTS: Product[] = [
       "Acabamento: Metais polidos nas extremidades para durabilidade."
     ],
     imageSeed: 106,
-    image: "assets/Ranger Vermelha.jpeg"
+    image: "assets/Ranger Vermelha.jpeg",
+    isSold: true
   },
   {
     id: 7,

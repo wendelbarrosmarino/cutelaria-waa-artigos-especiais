@@ -95,7 +95,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
                 onClick={(e) => e.stopPropagation()}
               />
               {product.isSold && (
-                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-red-600/90 text-white px-8 py-4 rounded-lg border-4 border-white shadow-xl rotate-[-15deg] pointer-events-none z-10 w-max">
+                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-red-600/90 text-white px-8 py-4 rounded-lg border-4 border-white shadow-xl rotate-[-15deg] pointer-events-none z-50 w-max">
                   <span className="text-4xl font-bold uppercase tracking-widest">Vendida</span>
                 </div>
               )}
